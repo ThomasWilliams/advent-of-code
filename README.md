@@ -1,0 +1,3 @@
+This is a repository of all of my AoC solutions. I solved 2020 and 2021 while they were occurring using Typescript with `ts-node`. During the year of 2022, I spent some free time picking at problems from older years using some of the util functions that I wrote for 2021. There are some import paths that may still be broken as I merged all these years together. Recently, I started relearning python by writing solutions to some 2020 problems.
+
+Many of the problems are incomplete. I'd like to go back and clean up 2019 at some point since a lot of those are progressively built on the same concept.
